@@ -12,4 +12,4 @@ In progress!
 
 
 ## HW 2 - Gov. Debt
-https://nickwechter.github.io/Wecht-DataViz2.md/
+https://nickwechter.github.io/dataviz2.md/

@@ -1,6 +1,3 @@
-# Wecht-DataViz
-https://nickwechter.github.io/Wecht-DataViz/
-
 # About Me
 Nick Wechter (He/Him) is currently a master's student of Healthcare Policy and Management at Carnegie Mellon University. Upon completion of his degree, Nick hopes to find a place for himself at the intersection of the Life Sciences and Healthcare industries.
 
@@ -11,3 +8,8 @@ Data is all around us. I would like to learn to better interact with visual data
 
 # Portfolio
 In progress!
+
+
+
+## HW 2 - Gov. Debt
+https://nickwechter.github.io/Wecht-DataViz2.md/

@@ -15,4 +15,4 @@ In progress!
 https://nickwechter.github.io/dataviz2.md/
 
 ## HW 3 - Opioid Epidemic Redesign
-Putlink here :3
+https://nickwechter.github.io/HW3-Opioid-Epidemic-Redesign/.

@@ -19,4 +19,5 @@ https://nickwechter.github.io/HW3-Opioid-Epidemic-Redesign/.
 
 ## Final Project Outline - Shorthand Presentation
 Markdown: https://nickwechter.github.io/Project-Outline/
+
 Shorthand: https://preview.shorthand.com/2EDcJ9PsuRzCbe6W

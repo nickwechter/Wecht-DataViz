@@ -28,6 +28,6 @@ Markdown: https://nickwechter.github.io/Project-Outline-V2/.
 Shorthand: https://carnegiemellon.shorthandstories.com/final-project---storyboard---wireframes/index.html
 
 ## Final Project - Summary and Final Presentation
-Markdown Summary:
+Markdown Summary: https://nickwechter.github.io/Final-Project/
 
 Shorthand Final Presentation: https://carnegiemellon.shorthandstories.com/luka-doncic--the-nba-s-next-superstar-/index.html

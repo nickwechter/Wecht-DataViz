@@ -25,4 +25,9 @@ Shorthand: https://preview.shorthand.com/2EDcJ9PsuRzCbe6W
 ## Final Project Outline V2 - Shorthand Presentation
 Markdown: https://nickwechter.github.io/Project-Outline-V2/.
 
-Shorthand: 
+Shorthand: https://carnegiemellon.shorthandstories.com/final-project---storyboard---wireframes/index.html
+
+## Final Project - Summary and Final Presentation
+Markdown Summary:
+
+Shorthand Final Presentation: https://carnegiemellon.shorthandstories.com/luka-doncic--the-nba-s-next-superstar-/index.html

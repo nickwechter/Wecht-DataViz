@@ -17,17 +17,17 @@ https://nickwechter.github.io/dataviz2.md/
 ## HW 3 - Opioid Epidemic Redesign
 https://nickwechter.github.io/HW3-Opioid-Epidemic-Redesign/.
 
-## Final Project Outline - Shorthand Presentation
+## Final Project: Part 1 - Outline and Brainstorm
 Markdown: https://nickwechter.github.io/Project-Outline/
 
 Shorthand: https://preview.shorthand.com/2EDcJ9PsuRzCbe6W
 
-## Final Project Outline V2 - Shorthand Presentation
+## Final Project: Part 2 - Interviews and Progress
 Markdown: https://nickwechter.github.io/Project-Outline-V2/.
 
 Shorthand: https://carnegiemellon.shorthandstories.com/final-project---storyboard---wireframes/index.html
 
-## Final Project - Summary and Final Presentation
+## Final Project: Part 3 Summary and Final Presentation
 Markdown Summary: https://nickwechter.github.io/Final-Project/
 
 Shorthand Final Presentation: https://carnegiemellon.shorthandstories.com/luka-doncic--the-nba-s-next-superstar-/index.html

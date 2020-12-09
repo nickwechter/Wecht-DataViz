@@ -7,9 +7,6 @@ Nick enjoys playing and watching basketball, cooking, as well as experimenting w
 Data is all around us. I would like to learn to better interact with visual data as a consumer and producer of information. I am particularly interested in learning how to better communicate concepts to broad audiences through deliberate visual design. 
 
 # Portfolio
-In progress!
-
-
 
 ## HW 2 - Gov. Debt
 https://nickwechter.github.io/dataviz2.md/
